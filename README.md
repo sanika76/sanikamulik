@@ -36,7 +36,7 @@ I’m passionate about transforming raw data into meaningful insights and creati
 ## 📫 Connect With Me  
 - 📧 Email: [sanikamulik07@gmail.com](mailto:sanikamulik07@gmail.com)  
 - 🔗 [LinkedIn](#) (www.linkedin.com/in/sanika-mulik)  
-- 🐙 [GitHub](https://github.com/SanikaMulik)  
+- 🐙 [GitHub](https://github.com/sanika76) 
 
 ---
 
