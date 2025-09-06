@@ -19,24 +19,24 @@ I’m passionate about transforming raw data into meaningful insights and creati
 ### 📊 Pharmaceutical Sales Dashboard  
 - Built in Excel with PivotTables, Slicers, and Charts  
 - Analyzed sales trends of companies like Auraux & Sunfarm  
-- [View Project](#)  
+
 
 ### ❤️ Heart Disease Dashboard  
 - Interactive Excel dashboard analyzing patient health data  
 - Visual insights into risk factors and outcomes  
-- [View Project](#)  
+ 
 
 ### 🗄️ SQL Case Study – Healthcare Data  
 - Wrote advanced SQL queries for healthcare dataset  
 - Covered Joins, Subqueries, Aggregations, and Functions  
-- [View Project](#)  
+
 
 ---
 
 ## 📫 Connect With Me  
 - 📧 Email: [sanikamulik07@gmail.com](mailto:sanikamulik07@gmail.com)  
 - 🔗 [LinkedIn](#) (www.linkedin.com/in/sanika-mulik)  
-- 🐙 [GitHub](https://github.com/sanikamulik)  
+- 🐙 [GitHub](https://github.com/SanikaMulik)  
 
 ---
 
